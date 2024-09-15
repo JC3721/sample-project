@@ -1,0 +1,30 @@
+.title {
+  font-size: 24px;
+  color: darkblue;
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  color: purple;
+  margin-left: 720px;
+}
+
+body {
+  background-image: url("images/pexels-photo-887353 (1).webp");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; /* Ensure the body takes the full height of the viewport */
+  margin: 0;
+  padding: 0;
+  color: hotpink;
+}
+p {
+  margin-left: 500px;
+}
